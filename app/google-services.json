@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866441372117",
+    "project_id": "simplechatapp-e8bd7",
+    "storage_bucket": "simplechatapp-e8bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866441372117:android:844efce8f18a386fdedd5c",
+        "android_client_info": {
+          "package_name": "com.example.simplechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866441372117-8o7m7m51qap61lpkj60pgi8dkvdb7jc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplechatapp",
+            "certificate_hash": "d82306de19598a51788bcee3e5eb6238e7badcd3"
+          }
+        },
+        {
+          "client_id": "866441372117-fupcna7q866rps4muk1tctc33fu6gkdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8ySL3ACqdH3-R1voiGF4NcV_Ao9CWds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866441372117-fupcna7q866rps4muk1tctc33fu6gkdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
